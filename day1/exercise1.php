@@ -1,6 +1,8 @@
 <?php
-$name='Alex';
-$age=25;
+$name = 'Alex';
+$age = 25;
+
 echo $name.$age
+
 ?>
 
